@@ -5,7 +5,7 @@ This is a simple website generating Memes. The user can input text in two input 
 This project is also a part of Scrimbas [React Basics Course](https://scrimba.com/learn/learnreact). This course is aslo free and open to everyone. If you are looking into learning React I higly recommend this course.   
 
 ## Demo
-[Check out the demo here!](https://gorgeous-snickerdoodle-e7c803.netlify.app/)
+[Check out the demo here!](https://636cfc1c4f9c612471082b7a--cozy-kulfi-82ab69.netlify.app/)
 
 
 ## Motivation
